@@ -10,6 +10,8 @@
             big balls website
         </h1>
         something here like <em>italic</em> text.
-        
+
+        Sign up <a href="register.php">here</a>
+    
     </body>
 </html>
